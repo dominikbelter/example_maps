@@ -1,7 +1,7 @@
 # example_maps
 Example ROS maps
 
-Example use: 
+Example use with map server: 
 
 rosrun map_server map_server src/example_maps/maps/map_home.yaml
 
